@@ -1,0 +1,2 @@
+# credit_detect_dataform
+プロジェクト「credit_detect」のdatafotm実行用
